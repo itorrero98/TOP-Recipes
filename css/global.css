@@ -2,3 +2,16 @@
     width: 50em;
     margin: 1em auto;
 }
+
+.home-recipe-card {
+    width: 30em;
+    max-height: 35em;
+    overflow: auto;
+    margin: 1em;
+}
+
+.home-card-img {
+    height: 20em;
+    width: auto;
+    text-align: center;
+}
